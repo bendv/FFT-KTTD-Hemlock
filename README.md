@@ -9,6 +9,8 @@ The final classification is provided in the "HemlockWoodedAreaMask.tif" file. Th
 2 - Hemlock / Deciduous co-dominant  
 3 - Hemlock / Evergreen co-dominant  
 
+![Examples of classified hemlock in Algonquin Provincial Park (left) and Grafton, Ontario (right)](examples.png)
+
 The classification was carried out according to the following workflow:
 
 1. Generated and downloaded 10-day median composites of the Infrared Enhanced Chlorophyll Index (IRECI) from all available Sentinel-2 images over a given Sentinel-2 tile ID from the Google Earth Engine. IRECI is defined as:
