@@ -9,7 +9,12 @@ The final classification is provided in the "HemlockWoodedAreaMask.tif" file. Th
 2 - Hemlock / Deciduous co-dominant  
 3 - Hemlock / Evergreen co-dominant  
 
-![Examples of classified hemlock in Algonquin Provincial Park (left) and Grafton, Ontario (right)](examples.png)
+<figure>
+  <img
+  src="examples.png"
+  alt="Examples of classified hemlock in Algonquin Provincial Park (left) and Grafton, Ontario (right)">
+  <figcaption>Examples of classified hemlock in Algonquin Provincial Park (left) and Grafton, Ontario (right).</figcaption>
+</figure>
 
 The classification was carried out according to the following workflow:
 
