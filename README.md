@@ -1,6 +1,8 @@
 Developing an inventory of Eastern hemlock for Ontario
 ------------------------------------------------------
 
+Hemlock Map for Ontario (version 1): https://ee-bendv.projects.earthengine.app/view/eastern-hemlock-in-ontario-v1
+
 The goal of this project was to develop a classifier for Eastern hemlock in Ontario forests. The classifier is based on 20-m resolution Sentinel-2 imagery provided by the European Space Agency via the Google Earth Engine.
 
 The final classification is provided in the "HemlockWoodedAreaMask.tif" file. The class codes are as follows:  
